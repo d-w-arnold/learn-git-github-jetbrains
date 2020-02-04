@@ -55,6 +55,10 @@ user@hostname:~$ brew cask install java
 
 [Running IntelliJ IDEA for the First Time](https://youtu.be/c0efB_CKOYo)
 
+(Optional)
+
+Using packages in IntelliJ is optional. If you decide to use packages in your Java project, [click here](https://docs.oracle.com/javase/tutorial/java/package/namingpkgs.html) to learn about the naming convention for packages in Java.
+
 ---
 
 [Back to Contents](../README.md#contents)
