@@ -1,3 +1,5 @@
+package com.example.intellij;
+
 /**
  * TicketMachine models a naive ticket machine that issues
  * flat-fare tickets.
