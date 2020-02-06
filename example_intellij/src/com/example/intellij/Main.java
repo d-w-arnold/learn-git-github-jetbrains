@@ -9,7 +9,7 @@ public class Main {
 
         TicketMachine tm = new TicketMachine(ticketCost);
 
-        System.out.println("Hello World!\n");
+        System.out.println("Welcome to the ticket machine!\n");
         System.out.println("Demo with " + TicketMachine.class.getSimpleName() + ".java\n");
         System.out.println("Price of a ticket: " + tm.getPrice());
         System.out.println("Current balance: " + tm.getBalance());
