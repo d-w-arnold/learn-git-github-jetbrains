@@ -39,7 +39,9 @@ And many more IDEs for other languages available with a [JetBrains FREE Student 
 
 ### <a name="intellij"></a>IntelliJ IDEA
 
-**Download Java** : A pre-requisite for using IntelliJ IDE, [click here](https://java.com/en/download/help/download_options.xml) to download for Mac OS / Windows / Linux.
+**Download Java** : (Pre-requisite)
+
+A pre-requisite for using IntelliJ IDE, [click here](https://java.com/en/download/help/download_options.xml) to download for Mac OS / Windows / Linux.
 
 (Optional) Install through **HomeBrew** (Mac OS Package Manager) :
 
@@ -57,7 +59,13 @@ user@hostname:~$ brew cask install java
 
 (Optional)
 
-Using packages in IntelliJ is optional. If you decide to use packages in your Java project, [click here](https://docs.oracle.com/javase/tutorial/java/package/namingpkgs.html) to learn about the naming convention for packages in Java.
+**Example Project** :
+
+Provided is an [example Java project](https://github.com/d-w-arnold/Learn_Git_GitHub_JetBrains/tree/master/example_intellij) you can open directly in IntelliJ IDEA.
+
+**Package Referencing** :
+
+Packages are used in Java in order to prevent naming conflicts, to control access, to make searching/locating and usage of classes, interfaces, enumerations and annotations easier, etc. If you decide to use packages in your Java project, [click here](https://docs.oracle.com/javase/tutorial/java/package/namingpkgs.html) to learn about the naming convention for packages in Java.
 
 ---
 

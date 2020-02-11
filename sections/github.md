@@ -26,13 +26,15 @@ Reasons to use **GitHub** :
 
 **Learn how to use GitHub** :
 
-[Create new GitHub repository](https://youtu.be/LR5BYZjuXMU)
+Navigating a GitHub repository, [Part 1](https://youtu.be/cII5ItmiYDY) and [Part 2](https://youtu.be/QmrDht7t2gQ)
+
+[Create a new GitHub repository](https://youtu.be/LR5BYZjuXMU)
 
 [Cloning a Github repository](https://youtu.be/O72FWNeO-xY)
 
 [Forking a GitHub repository](https://youtu.be/f5grYMXbAV0)
 
-Navigating a GitHub repository, [Part 1](https://youtu.be/cII5ItmiYDY) and [Part 2](https://youtu.be/QmrDht7t2gQ)
+[A Simple Pull Request](https://youtu.be/rgbCcBNZcdQ)
 
 (Optional)
 
