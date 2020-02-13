@@ -109,7 +109,7 @@ user@raptor:~$ exit
 
 ### <a name="macosCommand"></a>Mac OS / Linux Basic Commands
 
-**Symbols** :
+**Symbols** : (A "directory" is a location for storing files on your computer, a GUI equivalent is a folder. A directory and folder are synonymous)
 
 (`.`) current directory
 
