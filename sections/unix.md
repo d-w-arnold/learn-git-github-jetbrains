@@ -121,7 +121,7 @@ user@raptor:~$ exit
 
 (`... / ...`) directory separator
 
-(`-`) previous directory
+(`-`) last previously visited directory
 
 (`\`) escape the next character - most commonly used to escape spaces in file/directory names
 
