@@ -12,7 +12,7 @@ Reasons to use **GitHub** :
 
 - **GitHub** acts like a back-up of your coding projects/local repos on your personal computer(s).
 
-- **GitHub's** [FREE Educational Pack for Student](https://education.GitHub.com/students) (use @kent.ac.uk email address) allows **Public and Private repositories** on GitHub, not just Public with a standard account.
+- **GitHub's** [FREE Educational Pack for Students](https://education.gitHub.com/students) (use @kent.ac.uk email address) allows **Public and Private repositories** on GitHub, a standard GitHub account only allows Public repositories.
 
 - GitHub **Private repositories** are great for keeping lecture notes, classwork and assignments back-up.
     
