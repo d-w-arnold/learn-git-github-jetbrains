@@ -22,7 +22,9 @@
 
 (Optional)
 
-[Atom](https://atom.io/): a free and open-source text and source code editor, an alternative to JetBrains if they don't provide an IDE for a given language. [Atom Packages](https://atom.io/packages) compliment the open-source text and source code editor with various packages.
+- [Atom](https://atom.io/): a free and open-source text and source code editor, an alternative to JetBrains if they don't provide an IDE for a given language. [Atom Packages](https://atom.io/packages) compliment the open-source text and source code editor with various packages.
+
+- Learn to use [LaTeX](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes), for typesetting professional-looking documents.
 
 ---
 
