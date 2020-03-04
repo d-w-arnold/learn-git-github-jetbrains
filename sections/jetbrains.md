@@ -61,7 +61,7 @@ user@hostname:~$ brew cask install java
 
 **Example Project** :
 
-Provided in these learning materials is <a href="https://github.com/d-w-arnold/Learn_Git_GitHub_JetBrains/tree/master/example_intellij.zip" target="_blank">an example Java project</a> you can open directly in IntelliJ IDEA.
+Provided in these learning materials is <a href="https://github.com/d-w-arnold/Learn_Git_GitHub_JetBrains/blob/master/example_intellij.zip?raw=true" target="_blank">an example Java project</a> you can open directly in IntelliJ IDEA.
 
 **Package Referencing** :
 
