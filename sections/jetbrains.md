@@ -6,9 +6,9 @@
 
 **JetBrains** : is a software vendor providing professional and intelligent development tools, with an Integrated Development Envirnoment (IDE) for nearly every programming language.
     
-Get all the IDEs listed below by signing up for your [JetBrains FREE Student Account](https://www.jetbrains.com/student/) !
+Get all the IDEs listed below by signing up for your <a href="https://www.jetbrains.com/student/" target="_blank">JetBrains FREE Student Account</a> !
 
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/) --> `Java`
+- <a href="https://www.jetbrains.com/idea/" target="_blank">IntelliJ IDEA</a> --> `Java`
 
     Reasons to use **IntelliJ IDEA** for Java, instead of **BlueJ** :
         
@@ -27,13 +27,13 @@ Get all the IDEs listed below by signing up for your [JetBrains FREE Student Acc
         String intelliJ = "Relax everbody, I'm here!";
         ```
 
-- [CLion](https://www.jetbrains.com/clion/) --> `C & C++`
+- <a href="https://www.jetbrains.com/clion/" target="_blank">CLion</a> --> `C & C++`
     
-- [PHPStorm](https://www.jetbrains.com/phpstorm/) --> `PHP, HTML & CSS, JavaScript` (Front-end & Back-end (Full stack) Web Design)
+- <a href="https://www.jetbrains.com/phpstorm/" target="_blank">PHPStorm</a> --> `PHP, HTML & CSS, JavaScript` (Front-end & Back-end (Full stack) Web Design)
 
--  [WebStorm](https://www.jetbrains.com/webstorm/) --> `JavaScript, HTML & CSS` (Front-end Web Design)
+-  <a href="https://www.jetbrains.com/webstorm/" target="_blank">WebStorm</a> --> `JavaScript, HTML & CSS` (Front-end Web Design)
 
-And many more IDEs for other languages available with a [JetBrains FREE Student Account](https://www.jetbrains.com/student/) !
+And many more IDEs for other languages available with a <a href="https://www.jetbrains.com/student/" target="_blank">JetBrains FREE Student Account</a> !
 
 ---
 
@@ -41,7 +41,7 @@ And many more IDEs for other languages available with a [JetBrains FREE Student 
 
 **Download Java** : (Pre-requisite)
 
-A pre-requisite for using IntelliJ IDE, [click here](https://java.com/en/download/help/download_options.xml) to download for Mac OS / Windows / Linux.
+A pre-requisite for using IntelliJ IDE, <a href="https://java.com/en/download/help/download_options.xml" target="_blank">click here</a> to download for Mac OS / Windows / Linux.
 
 (Optional) Install through **HomeBrew** (Mac OS Package Manager) :
 
@@ -55,17 +55,17 @@ user@hostname:~$ brew cask install java
 
 **Learn how to setup IntelliJ IDEA** :
 
-[Running IntelliJ IDEA for the First Time](https://youtu.be/c0efB_CKOYo)
+<a href="https://youtu.be/c0efB_CKOYo" target="_blank">Running IntelliJ IDEA for the First Time</a>
 
 (Optional)
 
 **Example Project** :
 
-Provided is an [example Java project](https://github.com/d-w-arnold/Learn_Git_GitHub_JetBrains/tree/master/example_intellij) you can open directly in IntelliJ IDEA.
+Provided in these learning materials is <a href="https://github.com/d-w-arnold/Learn_Git_GitHub_JetBrains/tree/master/example_intellij.zip" target="_blank">an example Java project</a> you can open directly in IntelliJ IDEA.
 
 **Package Referencing** :
 
-Packages are used in Java in order to prevent naming conflicts, to control access, to make searching/locating and usage of classes, interfaces, enumerations and annotations easier, etc. If you decide to use packages in your Java project, [click here](https://docs.oracle.com/javase/tutorial/java/package/namingpkgs.html) to learn about the naming convention for packages in Java.
+Packages are used in Java in order to prevent naming conflicts, to control access, to make searching/locating and usage of classes, interfaces, enumerations and annotations easier, etc. If you decide to use packages in your Java project, <a href="https://docs.oracle.com/javase/tutorial/java/package/namingpkgs.html" target="_blank">click here</a> to learn about the naming convention for packages in Java.
 
 ---
 

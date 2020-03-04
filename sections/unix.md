@@ -14,7 +14,7 @@ Before we learn **Git**, we first need to cover some Command Line basics.
 
 - (Mac OS) "Terminal.app", located at `/Applications/Utilities/Terminal.app`
 
-    - (Optional) Download and install [iTerm 2](https://iterm2.com/), an alternative to Terminal. I would recommend mainly to proficient users.
+    - (Optional) Download and install <a href="https://iterm2.com/" target="_blank">iTerm 2</a>, an alternative to Terminal. I would recommend mainly to proficient users.
 
 - (Linux) Your default Command Line application.
 
@@ -24,13 +24,13 @@ Before we learn **Git**, we first need to cover some Command Line basics.
 user@hostname:~$
 ```
 
-3) <a name="macosStep3"></a>To get a taste for some basic UNIX commands, [click here](https://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line). Also Refer to the [Mac OS / Linux Commands Appendix](#macosCommand) for a crib sheet of basic commands.
+3) <a name="macosStep3"></a>To get a taste for some basic UNIX commands, <a href="https://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line" target="_blank">click here</a>. Also Refer to the [Mac OS / Linux Commands Appendix](#macosCommand) for a crib sheet of basic commands.
 
 (Optional)
 
 **Connect to Raptor** :
 
-If you have not connected to Raptor before, you'll have to create a CS UNIX User and password at the link : [https://www.cs.kent.ac.uk/systems/newuser/](https://www.cs.kent.ac.uk/systems/newuser/)
+If you have not connected to Raptor before, you'll have to create a CS UNIX User and password at the link : <a href="https://www.cs.kent.ac.uk/systems/newuser/" target="_blank">https://www.cs.kent.ac.uk/systems/newuser/</a>
 
 4) Run the command:
 
@@ -48,7 +48,7 @@ user@hostname:~$ ssh <user>@raptor.kent.ac.uk
 
 5) You'll be prompted for your CS UNIX User password in order to authenticate the SSH connection to Raptor (**IMPORTANT** Typed characters do not appear).
 
-- If you have a CS UNIX User, though you do not remeber your password, you can reset your password using the same link as above : [https://www.cs.kent.ac.uk/systems/newuser/](https://www.cs.kent.ac.uk/systems/newuser/)
+- If you have a CS UNIX User, though you do not remeber your password, you can reset your password using the same link as above : <a href="https://www.cs.kent.ac.uk/systems/newuser/" target="_blank">https://www.cs.kent.ac.uk/systems/newuser/</a>
 
 6) If the SSH connection is succesful, a Command Prompt should appear along the lines of:
 
@@ -64,7 +64,7 @@ user@raptor:~$ exit
 
 (Optional)
 
-Use the [zsh shell (with the oh-my-zsh framework)](https://GitHub.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH) instead of bash.
+Use the <a href="https://GitHub.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH" target="_blank">zsh shell (with the oh-my-zsh framework)</a> instead of bash.
 
 ### <a name="windows"></a>Windows
 
@@ -72,13 +72,13 @@ Use the [zsh shell (with the oh-my-zsh framework)](https://GitHub.com/ohmyzsh/oh
 
 Windows is not a UNIX-based OS, unlike Linux and Mac OS. For the sake of learning UNIX, we advise you connect to Raptor on Windows (see below).
 
-- (Optional) If in the long-term you'd like to invest in a way of running UNIX commands on Windows, see the following article : [https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/](https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/)
+- (Optional) If in the long-term you'd like to invest in a way of running UNIX commands on Windows, see the following article : <a href="https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/" target="_blank">https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/</a>
 
 **Connect to Raptor** :
 
-If you have not connected to Raptor before, you'll have to create a CS UNIX User and password at the link : [https://www.cs.kent.ac.uk/systems/newuser/](https://www.cs.kent.ac.uk/systems/newuser/)
+If you have not connected to Raptor before, you'll have to create a CS UNIX User and password at the link : <a href="https://www.cs.kent.ac.uk/systems/newuser/" target="_blank">https://www.cs.kent.ac.uk/systems/newuser/</a>
 
-1) Download and open [PuTTY](https://www.putty.org/)
+1) Download and open <a href="https://www.putty.org/" target="_blank">PuTTY</a>
 
 2) Specify the following properties:
 
@@ -88,7 +88,7 @@ If you have not connected to Raptor before, you'll have to create a CS UNIX User
 
 3) Click "Connect", then you'll be prompted for your univerity username (e.g. abc123) and your CS UNIX User password in order to authenticate the SSH connection to Raptor (**IMPORTANT** Typed characters do not appear).
 
-- If you have a CS UNIX User, though you do not remeber your password, you can reset your password using the same link as above : [https://www.cs.kent.ac.uk/systems/newuser/](https://www.cs.kent.ac.uk/systems/newuser/)
+- If you have a CS UNIX User, though you do not remeber your password, you can reset your password using the same link as above : <a href="https://www.cs.kent.ac.uk/systems/newuser/" target="_blank">https://www.cs.kent.ac.uk/systems/newuser/</a>
 
 4) If the SSH connection is succesful, a Command Prompt should appear along the lines of:
 

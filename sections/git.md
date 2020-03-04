@@ -68,9 +68,9 @@ While you can take advantage of Git (version control) features with a local repo
 
 ### <a name="install_git"></a>Install Git
 
-[Install for Mac OS / Windows](https://git-scm.com/download)
+<a href="https://git-scm.com/download" target="_blank">Install for Mac OS / Windows</a>
 
-[Install for Linux](https://git-scm.com/download/linux)
+<a href="https://git-scm.com/download/linux" target="_blank">Install for Linux</a>
 
 (Optional)
 
@@ -292,7 +292,7 @@ git status
 git commit
 ```
 
-Branches can do a lot more that just these basics, [click here](https://git-scm.com/book/en/v2/Git-Branching-Branch-Management) to learn more.
+Branches can do a lot more that just these basics, <a href="https://git-scm.com/book/en/v2/Git-Branching-Branch-Management" target="_blank">click here</a> to learn more.
 
 ---
 
@@ -300,11 +300,11 @@ Branches can do a lot more that just these basics, [click here](https://git-scm.
 
 To improve your Git repository, consider the following:
 
-- A `README.md` (`.md` is the [Markdown](https://www.markdownguide.org/getting-started/) file extension) in your repository is to tell other people why your project is useful, what they can do with your project, and how they can use it.
+- A `README.md` (`.md` is the <a href="https://www.markdownguide.org/getting-started/" target="_blank">Markdown</a> file extension) in your repository is to tell other people why your project is useful, what they can do with your project, and how they can use it.
 
     - A `README.md` also helps when a Git repository is published to [GitHub](github.md#gitHub).
 
-    - [Click here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-readmes) to learn more.
+    - <a href="https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-readmes" target="_blank">Click here</a> to learn more.
 
 - A `.gitignore` file specifies intentionally untracked files that Git should ignore.
 
@@ -312,9 +312,9 @@ To improve your Git repository, consider the following:
 
     - Files already tracked by Git are not affected.
 
-    - [Click here](https://git-scm.com/docs/gitignore) to learn more about `.gitignore`.
+    - <a href="https://git-scm.com/docs/gitignore" target="_blank">Click here</a> to learn more about `.gitignore`.
 
-- Check out [Tig](https://medium.com/@tommasi.v/git-enhanced-with-tig-9eb07fc30168), a Git repository browser, but can also assist in staging changes for commit at chunk level and act as a pager for output from various Git commands.
+- Check out <a href="https://medium.com/@tommasi.v/git-enhanced-with-tig-9eb07fc30168" target="_blank">Tig</a>, a Git repository browser, but can also assist in staging changes for commit at chunk level and act as a pager for output from various Git commands.
 
 ---
 
