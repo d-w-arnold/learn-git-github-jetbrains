@@ -24,7 +24,7 @@ Get all the IDEs listed below by signing up for your <a href="https://www.jetbra
 
         ```java
         String blueJ = "I help mainly with Year 1";
-        String intelliJ = "Relax everbody, I'm here!";
+        String intelliJ = "Relax everybody, I'm here!";
         ```
 
 - <a href="https://www.jetbrains.com/clion/" target="_blank">CLion</a> --> `C & C++`
