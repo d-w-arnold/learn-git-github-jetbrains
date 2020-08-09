@@ -1,6 +1,6 @@
 # Learn: Git, GitHub and JetBrains
 
-#### Learning materials used as part of talks aimed at Year 1 and 2 Computer Science undergraduate students, to better your skills for industry and the later stages of undergraduate study.
+#### Learning materials used as part of talks aimed at Year 1 and 2 Computer Science undergraduate students, to better your skills for industry and the later stages of your degree.
 
 ---
 
